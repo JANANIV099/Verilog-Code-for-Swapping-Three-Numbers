@@ -45,6 +45,9 @@ module swap_three_numbers (
         c_out = a_in; // Swap: c = a
     end
 endmodule
+OUTPUT:
+![Screenshot 2025-05-24 213653](https://github.com/user-attachments/assets/928a1240-e71d-4030-be71-3623ead36074)
+
 
 
 Testbench for Swapping Three Numbers:
@@ -95,10 +98,8 @@ module swap_three_numbers_tb;
     end
 endmodule
 ```
-![expj1](https://github.com/user-attachments/assets/e410e71a-dfdd-460d-b789-33c91d7fb374)
-![expj2](https://github.com/user-attachments/assets/fde242d5-aee4-4cb2-b6b3-4b1ca43865b1)
-![expj3](https://github.com/user-attachments/assets/49c1c286-248e-4b28-ab2c-cc242fea3631)
-
+OUTPUT:
+![Screenshot 2025-05-24 214101](https://github.com/user-attachments/assets/0593558d-3f69-470b-8270-a9d6b4b23c5c)
 
 
 
